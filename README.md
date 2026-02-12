@@ -34,7 +34,7 @@ Learned how attributes provide additional information to HTML elements.
 
 🔹 HTML Headings
 
-Used heading tags (<h1> to <h6>) to define structured titles and subtitles.
+Used heading tags (<h1> to <h6>)to define structured titles and subtitles.
 
 🔹 HTML Paragraphs
 
